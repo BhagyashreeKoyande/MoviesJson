@@ -7,6 +7,6 @@ Step 2: Run command npm install
 
 Step 3: Run command node app
 
-Step 4: To see the json data on localhost type localhost:3000/api/movies
+Step 4: To see the json data on localhost type localhost:3000/api/movies in browser.
 
 Step 5: Browse resteasy chrome and perform get,push,delete operation
